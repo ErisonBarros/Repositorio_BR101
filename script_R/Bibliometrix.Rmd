@@ -1,0 +1,28 @@
+---
+title: "Bibliometrix"
+author: "Erison Rosa de Oliveira Barros"
+date: "29/07/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Para instalar
+
+```{r}
+
+# Use se necessário #
+
+install.packages("bibliometrix")
+```
+
+# Rodando o Bibliometrix
+
+```{r}
+library(bibliometrix)
+biblioshiny()
+
+# Aria, M., & Cuccurullo, C. (2017). bibliometrix: An R-tool for comprehensive science mapping analysis. Journal of Informetrics , 11(4), 959-975. #
+```

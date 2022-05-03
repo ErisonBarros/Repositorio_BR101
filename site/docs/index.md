@@ -1,5 +1,5 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-# TIME-SPACE MODELING OF IRREGULAR OCCUPATIONS AROUND BRAZILIAN HIGHWAYS, BASED ON STATIC GRIDS: CASE STUDY BR-408
+# TIME-SPACE MODELING OF IRREGULAR OCCUPATIONS ON BRAZILIAN HIGHWAYS BASED ON STATIC GRIDS: CASE STUDY BR-101
 ## Universidade Federal de Pernambuco - UFPE
 ### Center for Technology and Geosciences - CTG
 ### Graduate Program in Civil Engineering
@@ -13,13 +13,14 @@ Collaborators:
 > Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
 
 ## PUBLICATION
-[PUBLICATION](https://www.sciencedirect.com/science/article/pii/S0264837721006943?dgcid=author#bibliog0005)
 
-<a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.landusepol.2021.105971" data-popup="right" data-size="large" class="plumx-plum-print-popup plum-liberty-theme" data-site="plum" data-hide-when-empty="true">Time-space modeling of irregular occupations around Brazilian highways, based on static grids: Case study of BR-408</a>
+
 
 ## SUMMARY
 
-Obtaining information about the conditions of the right-of-ways on brazilian highways represents a primary need in preventing irregular occupations on them. In order to minimize the risks associated with irregular occupation on the right-of-ways, resulting from anthropic processes related to land use and coverage, it is necessary to monitor the areas close to the highways. In this sense, mathematical models based on cellular automata can help to understand the impact of changes in land use and / or coverage and to predict future changes in the margins of highways. The study area comprises the BR-408 highway, located in the forest area of the state of Pernambuco, and aims to assess the urban growth of areas that are crossed by highways, generating an annual land cover scenario for the 10-year period. The modeling carried out in this research used land cover maps from the years 2000 and 2010, obtained through the Mapbiomas Project as input. Eight variables were used to explain the changes in land cover on the margins of Highway BR-408. For the calibration of the Model, the Artificial Neural Network and Logistic Regression method was used. The model was validated by the Kappa concordance test. The results show that the generated scenario presents an increase of 0.50% for the class “Irregular Occupation over the Right-of-Way”, in the period of 10 years. This increase has the contribution of cells that were in the initial stage as class Forest / Non-Forest Formation, Agriculture and non-vegetated area. The results of the modeling point to the growth of occupations in the peripheral areas of the cities cut by the highway under study, showing a spatial segregation.
+Obtaining information about the condition of the right-of-way in Brazilian highways represents a primary need in preventing irregular occupation of these highways. To minimize the risks associated with irregular occupation of the right-of-way, resulting from anthropic processes related to land use and coverage, it is necessary to monitor the areas near the highways. In this sense, mathematical models based on cellular automata can help to understand the impact of changes in land use and/or land cover and predict future changes in road margins. The study area comprises the BR-101 highway, located in the Zona da Mata of the State of Pernambuco, and aims to evaluate the urban growth of the areas cut by highways, generating an annual land cover scenario for the period of 10 years. The modeling performed in this research used as input land cover maps for the years 2000 and 2010, obtained through the Mapbiomas Project. To this end, we studied some variables and indicators that could explain the changes in land cover on the edges of the BR-10 Highway. For the calibration of the model, the ________________ and _____________________ were used. The model was validated by Kappa concordance test. The results show that ________________________________________________________________.
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 ### Keywords: Right-of-ways, Irregular Occupation, Dynamic Models.
