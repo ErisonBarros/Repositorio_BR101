@@ -1,8 +1,38 @@
+---
+![](https://img.shields.io/github/stars/pandao/editor.md.svg)
+![](https://img.shields.io/github/forks/pandao/editor.md.svg)
+![](https://img.shields.io/github/tag/pandao/editor.md.svg)
+![](https://img.shields.io/github/release/pandao/editor.md.svg)
+![](https://img.shields.io/github/issues/pandao/editor.md.svg)
+![](https://img.shields.io/bower/v/editor.md.svg)
+---
+
+
+Social
+
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+--
+
 # MODELAGEM DO USO E COBERTURA DO SOLO DAS MARGENS DA BR-101/PE:
 # OCUPAÇÕES IRREGULARES SOBRE A FAIXA DE DOMÍNIO
 ## Universidade Federal de Pernambuco - UFPE
 ### Centro de Tecnologia e Geociências - CTG
 ### Programa de graduação em Engenharia Civil
+
+
+
+----
+Collaborators:
+
+> Erison Rosa de Oliveira Barros (UFPE)  https://orcid.org/0000-0003-4879-6880
+
+> Maurício de O. Andrade (UFPE) https://orcid.org/0000-0002-7377-7668
+
+> Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
+---
+
 
 
 RESUMO:
@@ -13,6 +43,10 @@ caso não haja ações integradas nos proximos 40 anos. Esse aumento tem a contr
 
 Palavras-chave: **Faixa de Domínio de Rodovia, Ocupação Irregular, Modelos Dinâmicos.**
 
+----
+# PUBLICAÇÃO:
+
+----
 
 # Repositório da BR-101
 Para acessar o resumo dos dados da pesquisa é necessário acessar o link: 
