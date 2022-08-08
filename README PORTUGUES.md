@@ -1,3 +1,7 @@
+--- 
+## DOI - 10.5281/zenodo.6975391
+
+<a href="https://doi.org/10.5281/zenodo.6975391"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6975391.svg" alt="DOI"></a>
 ---
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
@@ -8,7 +12,7 @@
 ---
 
 
-Social
+Redes Sociais
 
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -17,11 +21,13 @@ Social
 
 # MODELAGEM DO USO E COBERTURA DO SOLO DAS MARGENS DA BR-101/PE:
 # OCUPAÇÕES IRREGULARES SOBRE A FAIXA DE DOMÍNIO
-## Universidade Federal de Pernambuco - UFPE
-### Centro de Tecnologia e Geociências - CTG
-### Programa de graduação em Engenharia Civil
+---
 
+|  <img src="https://i.ibb.co/wBZCHCx/LOGO-UFPE.jpg" alt="LOGO-UFPE" border="0" width="100px" height="150px">  	| Universidade Federal de Pernambuco - UFPE<br>Center for Technology and Geosciences - CTG<br>Graduate Program in Civil Engineering 	|
+|---	|---	|
+<img src="https://i.ibb.co/7WTyDsP/Posgradua-o-Civil.jpg" alt="Posgradua-o-Civil" border="0">
 
+----
 
 ----
 Collaborators:
@@ -50,7 +56,7 @@ Palavras-chave: **Faixa de Domínio de Rodovia, Ocupação Irregular, Modelos Di
 
 # Repositório da BR-101
 Para acessar o resumo dos dados da pesquisa é necessário acessar o link: 
-https://data.mendeley.com/datasets/3bsrvrddgm/draft?a=c1f0ff3f-ecd4-4f34-bff3-3e8c08b23a13
+https://zenodo.org/record/6975391#.YvGIOHbMK3A
 
   1. Analise Exploratória
   2. Simulação
