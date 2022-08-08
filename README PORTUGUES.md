@@ -58,7 +58,8 @@ Palavras-chave: **Faixa de Domínio de Rodovia, Ocupação Irregular, Modelos Di
 Para acessar o resumo dos dados da pesquisa é necessário acessar o link: 
 https://zenodo.org/record/6975391#.YvGIOHbMK3A
 
-  1. Analise Exploratória
-  2. Simulação
+  1. [Analise Exploratória](https://colab.research.google.com/github/ErisonBarros/Repositorio_BR101/blob/erison.barros/Analise_Espacial_IVS_10X_Dens.ipynb#scrollTo=7q4keeAROaL4)
+  2. [Estatisticas de Analise de Mudanças de  uso e Cobertura](https://1drv.ms/x/s!AjO4oAHV5BZul5orJemi1pWkrqoJ0A?e=Jp1ydv)
+  3. Mapa de Densidade de Ocupações Irregulares
   
   
