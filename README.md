@@ -66,17 +66,21 @@ Palavras-chave: **Faixa de Domínio de Rodovia, Ocupação Irregular, Modelos Di
 Para acessar o resumo dos dados da pesquisa é necessário acessar o link: 
 https://zenodo.org/record/6975391#.YvGIOHbMK3A
 
-  1. [Analise Exploratória](https://colab.research.google.com/github/ErisonBarros/Repositorio_BR101/blob/erison.barros/Analise_Espacial_IVS_10X_Dens.ipynb#scrollTo=7q4keeAROaL4)
-  2. [Estatisticas de Analise de Mudanças de  uso e Cobertura](https://1drv.ms/x/s!AjO4oAHV5BZul5orJemi1pWkrqoJ0A?e=Jp1ydv)
-  3. [Mapa de Densidade de Ocupações Irregulares](https://github.com/ErisonBarros/Repositorio_BR101/blob/erison.barros/Mapa%20de%20Classifica%C3%A7%C3%A3o%20de%20Densidade%20de%20Ocupa%C3%A7%C3%B5es.pdf)
-  4. [Métricas de Paisagem (fragstats4.2)](https://1drv.ms/x/s!AjO4oAHV5BZul5o4o7vNW7ZANvrSIQ?e=bT30wX)
-  5. Relatório de Processamento Molusce
-  6. Modelos LCM
+  -  [Analise Exploratória 1](https://colab.research.google.com/github/ErisonBarros/Repositorio_BR101/blob/erison.barros/Analise_Espacial_IVS_10X_Dens.ipynb#scrollTo=7q4keeAROaL4)
   
-        6.1 [ANN](https://1drv.ms/u/s!AjO4oAHV5BZul5c3Flg8RLbo22gS-w?e=4Kcoce)
+  -  [Ánalise Exploratória 2](https://colab.research.google.com/drive/1cb3LkKOrTGX4VhI-kQQu7oP1jrdVbmPN?usp=sharing)
+  
+  -  [Estatisticas de Analise de Mudanças de  uso e Cobertura](https://1drv.ms/x/s!AjO4oAHV5BZul5orJemi1pWkrqoJ0A?e=Jp1ydv)
+  - [Mapa de Densidade de Ocupações Irregulares](https://github.com/ErisonBarros/Repositorio_BR101/blob/erison.barros/Mapa%20de%20Classifica%C3%A7%C3%A3o%20de%20Densidade%20de%20Ocupa%C3%A7%C3%B5es.pdf)
+  - [Métricas de Paisagem (fragstats4.2)](https://1drv.ms/x/s!AjO4oAHV5BZul5o4o7vNW7ZANvrSIQ?e=bT30wX)
+  - [Relatório de Processamento Molusce]()
+  
+  - Modelos LCM
+  
+       -  [ANN](https://1drv.ms/u/s!AjO4oAHV5BZul5c3Flg8RLbo22gS-w?e=4Kcoce)
         
-        8.2 [LOGIT REGRESSION](https://1drv.ms/u/s!AjO4oAHV5BZul5k9cfvE8y2k4BTj2Q?e=t0s0Br)
+       -   [LOGIT REGRESSION](https://1drv.ms/u/s!AjO4oAHV5BZul5k9cfvE8y2k4BTj2Q?e=t0s0Br)
         
-  8. [SIMULAÇÃO 2030](https://youtu.be/aMBKsB62kZo)
+  - [SIMULAÇÃO 2030](https://youtu.be/aMBKsB62kZo)
   
   
