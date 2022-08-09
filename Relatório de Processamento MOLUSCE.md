@@ -34,10 +34,3 @@ Tamanho do Pixel	199.9999999999999432,-200
 <img src="https://i.ibb.co/XCQtm2y/Screenshot-1.jpg" alt="Screenshot-1" border="0">
 
 ----
-
-
-
-
-
-
-
