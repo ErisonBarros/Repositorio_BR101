@@ -19,13 +19,13 @@ Redes Sociais
 
 --
 
-# MODELAGEM DO USO E COBERTURA DO SOLO DAS MARGENS DA BR-101/PE:
-# OCUPAÇÕES IRREGULARES SOBRE A FAIXA DE DOMÍNIO
+# MODELAGEM DO USO E COBERTURA DO SOLO DAS MARGENS DA BR-101/PE: OCUPAÇÕES IRREGULARES SOBRE A FAIXA DE DOMÍNIO
 ---
 
 |  <img src="https://i.ibb.co/wBZCHCx/LOGO-UFPE.jpg" alt="LOGO-UFPE" border="0" width="100px" height="150px">  	| Universidade Federal de Pernambuco - UFPE<br>Center for Technology and Geosciences - CTG<br>Graduate Program in Civil Engineering 	|
 |---	|---	|
 <img src="https://i.ibb.co/7WTyDsP/Posgradua-o-Civil.jpg" alt="Posgradua-o-Civil" border="0">
+
 
 ----
 
@@ -48,9 +48,14 @@ Quatro variaveis (Densidade Populacional, Valor de Terra Nua, Indice de Vunabiri
 caso não haja ações integradas nos proximos 40 anos. Esse aumento tem a contribuição de células que estavam em estágio inicial como classe Floresta/Formação Não Florestal, Agricultura e área não vegetada. Os resultados da modelagem apontam para o crescimento das ocupações nas áreas periféricas das cidades cortadas pela rodovia em estudo.
 
 Palavras-chave: **Faixa de Domínio de Rodovia, Ocupação Irregular, Modelos Dinâmicos.**
+---
 
 # Localização da Área de EStudo
 
+<img src="https://i.ibb.co/hxNCGRP/Mapa-de-Classifica-o-de-Densidade-de-Ocupa-es.png" alt="Mapa-de-Classifica-o-de-Densidade-de-Ocupa-es" border="0">
+
+
+---
 ----
 
 # PUBLICAÇÃO:
