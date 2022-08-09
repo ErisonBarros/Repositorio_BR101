@@ -2,8 +2,6 @@
 
 Insira texto em [Markdown](http://daringfireball.net/projects/markdown/). Use a barra acima ou clique no botão **?** para obter ajuda com formatação.
 
-<img src="https://i.ibb.co/hxNCGRP/Mapa-de-Classifica-o-de-Densidade-de-Ocupa-es.png" alt="Mapa-de-Classifica-o-de-Densidade-de-Ocupa-es" border="0">
-
 # Configuraçãoes do Raster de LUCC
 
 Nome	cobertura_2000
@@ -30,6 +28,12 @@ Dimensões	X: 461 Y: 814 Bandas: 1
 Origem	204083,9.1753e+06
 Tamanho do Pixel	199.9999999999999432,-200
 
+----
+# cLASSIFICAÇÃO DA IMAGEM
+
+<img src="https://i.ibb.co/XCQtm2y/Screenshot-1.jpg" alt="Screenshot-1" border="0">
+
+----
 
 
 
