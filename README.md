@@ -80,7 +80,12 @@ https://zenodo.org/record/6975391#.YvGIOHbMK3A
        -  [ANN](https://1drv.ms/u/s!AjO4oAHV5BZul5c3Flg8RLbo22gS-w?e=4Kcoce)
         
        -   [LOGIT REGRESSION](https://1drv.ms/u/s!AjO4oAHV5BZul5k9cfvE8y2k4BTj2Q?e=t0s0Br)
-        
+       
+       
   - [SIMULAÇÃO 2030](https://youtu.be/aMBKsB62kZo)
+  
+  - [SIMULAÇÃO 2018](https://clipchamp.com/watch/UAJtLmp2cnm)
+  
+  
   
   
