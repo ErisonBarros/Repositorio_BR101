@@ -86,7 +86,7 @@ https://zenodo.org/record/6975391#.YvGIOHbMK3A
   
   - [SIMULAÇÃO 2018](https://clipchamp.com/watch/UAJtLmp2cnm)
   
-  - [Verificação dos Caertos do Modelo](https://youtu.be/IcNkzbEiCro)
+  - [Verificação dos Acertos do Modelo](https://youtu.be/IcNkzbEiCro)
   
   
   
