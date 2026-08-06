@@ -248,6 +248,6 @@ MIT License - Copyright (c) 2022 Erison Rosa de Oliveira Barros
 
 **⭐ Se este projeto foi útil para sua pesquisa, considere dar uma estrela no GitHub! ⭐**
 
-<sub>Curadoria do README: Hermes Agent • 2026-08-06</sub>
+<sub>Curadoria do README: Erison Barros • 2026-08-06</sub>
 
 </div>
