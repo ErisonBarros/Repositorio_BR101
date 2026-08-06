@@ -1,14 +1,31 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Repositorio_BR101"
+title: "Modelagem do Uso e Cobertura do Solo das Margens da BR-101/PE: Ocupações Irregulares sobre a Faixa de Domínio"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2025-05-26
+doi: 10.5281/zenodo.6975391
+date-released: 2022-10-21
 url: "https://github.com/ErisonBarros/Repositorio_BR101"
+authors:
+- family-names: "Barros"
+  given-names: "Erison Rosa de Oliveira"
+  orcid: "https://orcid.org/0000-0003-4879-6880"
+  affiliation: "Universidade Federal de Pernambuco (UFPE)"
+- family-names: "Andrade"
+  given-names: "Maurício de O."
+  orcid: "https://orcid.org/0000-0002-7377-7668"
+  affiliation: "Universidade Federal de Pernambuco (UFPE)"
+- family-names: "Souza Júnior"
+  given-names: "Fernando Lourenço de"
+  orcid: "https://orcid.org/0000-0002-6000-149X"
+  affiliation: "Universidade Federal de Pernambuco (UFPE)"
+keywords:
+  - BR-101
+  - ocupação irregular
+  - faixa de domínio
+  - uso e cobertura do solo
+  - autômatos celulares
+  - MOLUSCE
+  - modelagem dinâmica
+  - Pernambuco
+license: MIT
+type: software

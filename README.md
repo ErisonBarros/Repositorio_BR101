@@ -1,93 +1,253 @@
---- 
-## DOI - 10.5281/zenodo.6975391
+# 🛣️ Modelagem do Uso e Cobertura do Solo das Margens da BR-101/PE
 
-<a href="https://doi.org/10.5281/zenodo.6975391"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6975391.svg" alt="DOI"></a>
----
-![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-![](https://img.shields.io/github/forks/pandao/editor.md.svg)
-![](https://img.shields.io/github/tag/pandao/editor.md.svg)
-![](https://img.shields.io/github/release/pandao/editor.md.svg)
-![](https://img.shields.io/github/issues/pandao/editor.md.svg)
-![](https://img.shields.io/bower/v/editor.md.svg)
----
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6975391.svg)](https://doi.org/10.5281/zenodo.6975391)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Language](https://img.shields.io/badge/Python-Jupyter-orange?logo=jupyter)](https://jupyter.org)
+[![Language](https://img.shields.io/badge/R-4.x-blue?logo=r)](https://www.r-project.org)
+[![GitHub stars](https://img.shields.io/github/stars/ErisonBarros/Repositorio_BR101?style=social)](https://github.com/ErisonBarros/Repositorio_BR101/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ErisonBarros/Repositorio_BR101?style=social)](https://github.com/ErisonBarros/Repositorio_BR101/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/ErisonBarros/Repositorio_BR101)](https://github.com/ErisonBarros/Repositorio_BR101/issues)
+[![Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://erisonbarros.github.io/Repositorio_BR101/)
 
+> **Ocupações irregulares sobre a faixa de domínio da rodovia BR-101 em Pernambuco, Brasil.**
 
-Redes Sociais
-
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
---
-
-# MODELAGEM DO USO E COBERTURA DO SOLO DAS MARGENS DA BR-101/PE: OCUPAÇÕES IRREGULARES SOBRE A FAIXA DE DOMÍNIO
----
-
-|  <img src="https://i.ibb.co/wBZCHCx/LOGO-UFPE.jpg" alt="LOGO-UFPE" border="0" width="100px" height="150px">  	| Universidade Federal de Pernambuco - UFPE<br>Center for Technology and Geosciences - CTG<br>Graduate Program in Civil Engineering 	|
-|---	|---	|
-<img src="https://i.ibb.co/7WTyDsP/Posgradua-o-Civil.jpg" alt="Posgradua-o-Civil" border="0">
-
-
-----
-
-----
-Collaborators:
-
-> Erison Rosa de Oliveira Barros (UFPE)  https://orcid.org/0000-0003-4879-6880
-
-> Maurício de O. Andrade (UFPE) https://orcid.org/0000-0002-7377-7668
-
-> Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
----
-
-
-
-RESUMO:
-
-A obtenção de informações sobre as condições das faixas de servidão nas rodovias brasileiras representa uma necessidade primordial na prevenção de ocupações irregulares nas mesmas. Para minimizar os riscos associados à ocupação irregular das faixas de domínio, decorrentes de processos antrópicos relacionados ao uso e cobertura do solo, é necessário o monitoramento das áreas próximas às rodovias. Nesse sentido, modelos matemáticos baseados em autômatos celulares podem ajudar a entender o impacto das mudanças no uso e/ou cobertura do solo e prever mudanças futuras nas margens das rodovias. A área de estudo compreende a rodovia BR-101/PE, localizada na Zona da Mata Pernambucana, Brasil, e tem como objetivo avaliar o crescimento urbano das áreas cortadas pela rodovia, assim como estudar e espacilização das ocupações, gerando um cenário anual de cobertura do solo para o período de 10 anos. A modelagem realizada nesta pesquisa utilizou como insumo mapas de cobertura do solo dos anos de 2000 e 2010, obtidos por meio do Projeto Mapbiomas. 
-Quatro variaveis (Densidade Populacional, Valor de Terra Nua, Indice de Vunabiridade social e Distancia a BR) foram estudadas foram utilizadas para explicar as mudanças na cobertura do solo nas margens da Rodovia BR-101/PE. Para a calibração do Modelo foi utilizado o método Rede Neural Artificial e Regressão Logística. O modelo foi validado pelo teste de concordância Kappa. Os resultados mostram que o cenário gerado apresenta 
-caso não haja ações integradas nos proximos 40 anos. Esse aumento tem a contribuição de células que estavam em estágio inicial como classe Floresta/Formação Não Florestal, Agricultura e área não vegetada. Os resultados da modelagem apontam para o crescimento das ocupações nas áreas periféricas das cidades cortadas pela rodovia em estudo.
-
-Palavras-chave: **Faixa de Domínio de Rodovia, Ocupação Irregular, Modelos Dinâmicos.**
----
-
-# Localização da Área de EStudo
-
-<img src="https://i.ibb.co/hxNCGRP/Mapa-de-Classifica-o-de-Densidade-de-Ocupa-es.png" alt="Mapa-de-Classifica-o-de-Densidade-de-Ocupa-es" border="0">
-
+Repositório de pesquisa de pós-graduação (UFPE) que investiga o crescimento urbano nas margens da BR-101/PE utilizando modelos matemáticos baseados em autômatos celulares, com o objetivo de prever ocupações irregulares na faixa de domínio da rodovia.
 
 ---
-----
 
-# PUBLICAÇÃO:
+## 📑 sumário
 
-----
+- [📍 sobre o projeto](#-sobre-o-projeto)
+- [🎯 objetivos](#-objetivos)
+- [🔬 abordagem metodológica](#-abordagem-metodológica)
+- [📊 resultados principais](#-resultados-principais)
+- [👥 colaboradores](#-colaboradores)
+- [📂 estrutura do repositório](#-estrutura-do-repositório)
+- [🚀 como usar](#-como-usar)
+- [📚 como citar](#-como-citar)
+- [🌐 documentação online](#-documentação-online)
+- [📜 licença](#-licença)
 
-# Repositório da BR-101
-Para acessar o resumo dos dados da pesquisa é necessário acessar o link: 
-https://zenodo.org/record/6975391#.YvGIOHbMK3A
+---
 
-  -  [Analise Exploratória 1](https://colab.research.google.com/github/ErisonBarros/Repositorio_BR101/blob/erison.barros/Analise_Espacial_IVS_10X_Dens.ipynb#scrollTo=7q4keeAROaL4)
-  
-  -  [Ánalise Exploratória 2](https://colab.research.google.com/drive/1cb3LkKOrTGX4VhI-kQQu7oP1jrdVbmPN?usp=sharing)
-  
-  -  [Estatisticas de Analise de Mudanças de  uso e Cobertura](https://1drv.ms/x/s!AjO4oAHV5BZul5orJemi1pWkrqoJ0A?e=Jp1ydv)
-  - [Mapa de Densidade de Ocupações Irregulares](https://github.com/ErisonBarros/Repositorio_BR101/blob/erison.barros/Mapa%20de%20Classifica%C3%A7%C3%A3o%20de%20Densidade%20de%20Ocupa%C3%A7%C3%B5es.pdf)
-  - [Métricas de Paisagem (fragstats4.2)](https://1drv.ms/x/s!AjO4oAHV5BZul5o4o7vNW7ZANvrSIQ?e=bT30wX)
-  - [Relatório de Processamento Molusce]()
-  
-  - Modelos LCM
-  
-       -  [ANN](https://1drv.ms/u/s!AjO4oAHV5BZul5c3Flg8RLbo22gS-w?e=4Kcoce)
-        
-       -   [LOGIT REGRESSION](https://1drv.ms/u/s!AjO4oAHV5BZul5k9cfvE8y2k4BTj2Q?e=t0s0Br)
-       
-       
-  - [SIMULAÇÃO 2030](https://youtu.be/aMBKsB62kZo)
-  
-  - [SIMULAÇÃO 2018](https://clipchamp.com/watch/UAJtLmp2cnm)
-  
-  - [Verificação dos Acertos do Modelo](https://youtu.be/IcNkzbEiCro)
-  
-  
-  
-  
+## 📍 sobre o projeto
+
+| | |
+| :--- | :--- |
+| 🏛️ **Instituição** | Universidade Federal de Pernambuco (UFPE) |
+| 🎓 **Programa** | Pós-Graduação em Engenharia Civil |
+| 🏢 **Centro** | Center for Technology and Geosciences (CTG) |
+| 🛣️ **Rodovia** | BR-101/PE — trecho da Zona da Mata Pernambucana |
+| 📅 **Período de estudo** | 2000–2010 (calibração) + 10 anos de projeção |
+| 📐 **Área** | Faixa de domínio da BR-101 e entorno urbano |
+
+### 🎯 objetivos
+
+Investigar o crescimento urbano e a expansão de ocupações irregulares nas margens da rodovia BR-101/PE, gerando cenários anuais de cobertura do solo para um horizonte de **10 anos** com base em:
+
+- 🗺️ Mapas de cobertura do solo do Projeto MapBiomas (2000 e 2010)
+- 📊 4 variáveis explicativas: Densidade Populacional, Valor de Terra Nua, Índice de Vulnerabilidade Social (IVS) e Distância à BR
+- 🤖 Calibração via Rede Neural Artificial + Regressão Logística
+- ✅ Validação pelo índice Kappa
+
+### 🔬 abordagem metodológica
+
+| etapa | método | ferramenta |
+| :--- | :--- | :--- |
+| **1. dados** | classificação MapBiomas | Google Earth Engine |
+| **2. simulação** | autômato celular | **MOLUSCE** (QGIS plugin) |
+| **3. calibração** | redes neurais + regressão logística | Python (`openland`), R |
+| **4. validação** | índice Kappa | R, Jupyter |
+| **5. análise espacial** | correlação + densidade | Jupyter Notebook |
+
+---
+
+## 📊 resultados principais
+
+- 📈 **Crescimento urbano projetado** nas áreas periféricas das cidades cortadas pela rodovia caso não haja ações integradas nos próximos **40 anos**.
+- 🌳 **Contribuição de células** anteriormente em estágio inicial: Floresta/Formação Não Florestal, Agricultura e Área Não Vegetada.
+- ⚠️ **Tendência de expansão** das ocupações em direção à faixa de domínio da rodovia.
+
+> Veja o relatório completo: [`Mapa de Classificação de Densidade de Ocupações.pdf`](./Mapa%20de%20Classifica%C3%A7%C3%A3o%20de%20Densidade%20de%20Ocupa%C3%A7%C3%B5es.pdf)
+
+---
+
+## 👥 colaboradores
+
+| autor | orcid | instituição |
+| :--- | :--- | :--- |
+| **Erison Rosa de Oliveira Barros** | [0000-0003-4879-6880](https://orcid.org/0000-0003-4879-6880) | UFPE |
+| **Maurício de O. Andrade** | [0000-0002-7377-7668](https://orcid.org/0000-0002-7377-7668) | UFPE |
+| **Fernando Lourenço de Souza Júnior** | [0000-0002-6000-149X](https://orcid.org/0000-0002-6000-149X) | UFPE |
+
+---
+
+## 📂 estrutura do repositório
+
+```
+Repositorio_BR101/
+│
+├── 📓 Analise_Espacial_IVS_10X_Dens.ipynb      # Análise espacial Jupyter (Python)
+├── 🗺️ Mapa de Classificação...ocupações.pdf     # Mapa principal do estudo (2.3 MB)
+├── 📍 Ocupações.kml                            # Dados geográficos Google Earth (18 MB)
+├── 📊 dataset.csv                              # Dataset tabular processado (4.5 MB)
+├── 📜 CITATION.cff                             # Metadados de citação (Zenodo)
+├── ⚙️ openland_aplicação.R                     # Script principal R (openland)
+│
+├── 📁 script_R/                                # Scripts auxiliares R
+│   ├── Bibliometrix.Rmd
+│   ├── conversão_lulcc.R
+│   ├── lulccR.R
+│   └── openlandR.R
+│
+├── 📁 env/                                     # Ambiente virtual Python (lib/Scripts)
+├── 📁 site/                                    # MkDocs build (documentação online)
+│
+├── 📄 README.md                                # Este arquivo
+├── 📄 PASSO A PASSO.md                         # Tutorial de uso
+├── 📄 Relatório de Processamento MOLUSCE.md    # Relatório técnico MOLUSCE
+├── 📄 documentação Instação.md                 # Guia de instalação
+├── 📄 Deploying Your Docs - MkDocs.md          # Tutorial MkDocs
+├── 📄 ajuda-mkdocs.md                          # Ajuda MkDocs
+├── 📄 Exploratória                             # Análise exploratória
+│
+├── ⚙️ _config.yml                              # Config Jekyll (GitHub Pages)
+├── 📦 Repositorio_BR101.Rproj                  # Projeto RStudio
+└ 🙈 .gitignore
+```
+
+### 📌 artefatos principais
+
+| arquivo | tipo | descrição |
+| :--- | :--- | :--- |
+| [`Analise_Espacial_IVS_10X_Dens.ipynb`](./Analise_Espacial_IVS_10X_Dens.ipynb) | Jupyter Notebook | Análise espacial completa |
+| [`Mapa de Classificação de Densidade de Ocupações.pdf`](./Mapa%20de%20Classifica%C3%A7%C3%A3o%20de%20Densidade%20de%20Ocupa%C3%A7%C3%B5es.pdf) | PDF (2.3 MB) | Mapa de classificação final |
+| [`Ocupações.kml`](./Ocupa%C3%A7%C3%B5es.kml) | KML (18 MB) | Dados geográficos |
+| [`dataset.csv`](./dataset.csv) | CSV (4.5 MB) | Dataset processado |
+| [`openland_aplicação.R`](./openland_aplica%C3%A7%C3%A3o.R) | R script | Script de simulação principal |
+| [`Relatório de Processamento MOLUSCE.md`](./Relat%C3%B3rio%20de%20Processamento%20MOLUSCE.md) | Markdown | Relatório técnico MOLUSCE |
+| [`PASSO A PASSO.md`](./PASSO%20A%20PASSO.md) | Markdown | Tutorial de uso |
+| [`documentação Instação.md`](./documenta%C3%A7%C3%A3o%20Insta%C3%A7%C3%A3o.md) | Markdown | Guia de instalação |
+
+---
+
+## 🚀 como usar
+
+### 1. clonar o repositório
+
+```bash
+git clone https://github.com/ErisonBarros/Repositorio_BR101.git
+cd Repositorio_BR101
+```
+
+### 2. explorar a documentação online
+
+A documentação completa está publicada via GitHub Pages:
+
+🌐 **https://erisonbarros.github.io/Repositorio_BR101/**
+
+### 3. executar a análise (opcional)
+
+#### pré-requisitos
+
+- **Python 3.11+** com `geopandas`, `rasterio`, `numpy`, `pandas`, `matplotlib`
+- **R 4.x** com `openland`, `lulcc`, `bibliometrix`
+- **QGIS 3.x** com plugin **MOLUSCE**
+
+#### ativar ambiente Python
+
+```bash
+source env/Scripts/activate    # Windows
+source env/bin/activate        # Linux/macOS
+```
+
+#### abrir Jupyter
+
+```bash
+jupyter notebook Analise_Espacial_IVS_10X_Dens.ipynb
+```
+
+#### rodar simulação R
+
+```r
+source("openland_aplicação.R")
+```
+
+> 📖 Para instruções detalhadas, consulte [`PASSO A PASSO.md`](./PASSO%20A%20PASSO.md).
+
+---
+
+## 📚 como citar
+
+Se você usar este repositório em pesquisa, por favor cite:
+
+```bibtex
+@software{barros_br101_2022,
+  author    = {Barros, Erison Rosa de Oliveira and
+               Andrade, Maurício de O. and
+               Souza Júnior, Fernando Lourenço de},
+  title     = {Modelagem do Uso e Cobertura do Solo das Margens da BR-101/PE:
+               Ocupações Irregulares sobre a Faixa de Domínio},
+  year      = {2022},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.6975391},
+  url       = {https://github.com/ErisonBarros/Repositorio_BR101}
+}
+```
+
+> 📄 Formato CFF: [`CITATION.cff`](./CITATION.cff)
+
+---
+
+## 🌐 documentação online
+
+A documentação deste projeto é publicada via **MkDocs + GitHub Pages**:
+
+🔗 **https://erisonbarros.github.io/Repositorio_BR101/**
+
+Para rebuild local:
+
+```bash
+cd site
+mkdocs serve
+```
+
+Para deploy:
+
+```bash
+mkdocs gh-deploy
+```
+
+> Veja [`Deploying Your Docs - MkDocs.md`](./Deploying%20Your%20Docs%20-%20MkDocs.md) para detalhes.
+
+---
+
+## 📜 licença
+
+Este projeto está licenciado sob a **MIT License** — veja o arquivo [`LICENSE`](./LICENSE) para detalhes.
+
+```
+MIT License - Copyright (c) 2022 Erison Rosa de Oliveira Barros
+```
+
+---
+
+## 🔗 links úteis
+
+| recurso | link |
+| :--- | :--- |
+| 🐙 **Repositório GitHub** | https://github.com/ErisonBarros/Repositorio_BR101 |
+| 🌐 **Documentação online** | https://erisonbarros.github.io/Repositorio_BR101/ |
+| 📚 **DOI Zenodo** | https://doi.org/10.5281/zenodo.6975391 |
+| 🗺️ **Projeto MapBiomas** | https://mapbiomas.org/ |
+| 🤖 **Plugin MOLUSCE** | https://github.com/asprino-GitHub/MOLUSCE |
+
+---
+
+<div align="center">
+
+**⭐ Se este projeto foi útil para sua pesquisa, considere dar uma estrela no GitHub! ⭐**
+
+<sub>Curadoria do README: Hermes Agent • 2026-08-06</sub>
+
+</div>
